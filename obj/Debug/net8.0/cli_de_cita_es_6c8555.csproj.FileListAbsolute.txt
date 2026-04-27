@@ -1,0 +1,14 @@
+D:\Projetos\GitAuto\workspace\cli-de-cita-es-6c8555\bin\Debug\net8.0\cli_de_cita_es_6c8555.exe
+D:\Projetos\GitAuto\workspace\cli-de-cita-es-6c8555\bin\Debug\net8.0\cli_de_cita_es_6c8555.deps.json
+D:\Projetos\GitAuto\workspace\cli-de-cita-es-6c8555\bin\Debug\net8.0\cli_de_cita_es_6c8555.runtimeconfig.json
+D:\Projetos\GitAuto\workspace\cli-de-cita-es-6c8555\bin\Debug\net8.0\cli_de_cita_es_6c8555.dll
+D:\Projetos\GitAuto\workspace\cli-de-cita-es-6c8555\bin\Debug\net8.0\cli_de_cita_es_6c8555.pdb
+D:\Projetos\GitAuto\workspace\cli-de-cita-es-6c8555\obj\Debug\net8.0\cli_de_cita_es_6c8555.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\GitAuto\workspace\cli-de-cita-es-6c8555\obj\Debug\net8.0\cli_de_cita_es_6c8555.AssemblyInfoInputs.cache
+D:\Projetos\GitAuto\workspace\cli-de-cita-es-6c8555\obj\Debug\net8.0\cli_de_cita_es_6c8555.AssemblyInfo.cs
+D:\Projetos\GitAuto\workspace\cli-de-cita-es-6c8555\obj\Debug\net8.0\cli_de_cita_es_6c8555.csproj.CoreCompileInputs.cache
+D:\Projetos\GitAuto\workspace\cli-de-cita-es-6c8555\obj\Debug\net8.0\cli_de_cita_es_6c8555.dll
+D:\Projetos\GitAuto\workspace\cli-de-cita-es-6c8555\obj\Debug\net8.0\refint\cli_de_cita_es_6c8555.dll
+D:\Projetos\GitAuto\workspace\cli-de-cita-es-6c8555\obj\Debug\net8.0\cli_de_cita_es_6c8555.pdb
+D:\Projetos\GitAuto\workspace\cli-de-cita-es-6c8555\obj\Debug\net8.0\cli_de_cita_es_6c8555.genruntimeconfig.cache
+D:\Projetos\GitAuto\workspace\cli-de-cita-es-6c8555\obj\Debug\net8.0\ref\cli_de_cita_es_6c8555.dll
