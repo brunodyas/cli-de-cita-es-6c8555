@@ -1,3 +1,3 @@
 # Notas
 
-CLI que gera N UUIDs v4 e opcionalmente escreve em arquivo.
+Script que faz GET em uma URL e reporta status e latência.
