@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("djenus_csharp_cli_de_cita_es_6c8555")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+646036d0201ebf3f63cf27e70c94824d39789c78")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+71cdf397c3dea2f5c7941f751b64b5ab57c89ad0")]
 [assembly: System.Reflection.AssemblyProductAttribute("djenus_csharp_cli_de_cita_es_6c8555")]
 [assembly: System.Reflection.AssemblyTitleAttribute("djenus_csharp_cli_de_cita_es_6c8555")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
